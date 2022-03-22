@@ -22,3 +22,5 @@ What we’re looking for: This question aims to evaluate your instructional desi
 
 ## Solution
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/99791667/159435596-f26c633c-a2f6-4fd1-b468-27cf468b8b24.png">
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/99791667/159436693-d05aa30f-5599-4fa6-8bb7-e63e3cb1d326.png">
